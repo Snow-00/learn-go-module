@@ -1,4 +1,4 @@
-package learn_go_module
+package learn-go-module
 
 func SayHello() string {
 	return "hello"
